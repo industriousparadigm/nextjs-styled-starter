@@ -13,3 +13,4 @@ Tweaks include:
 - Some global styles via GlobalStyle.js
 - Some pre-styled components via DesignSystem.js
 - ESLint & Prettier
+- Absolute imports
